@@ -15,4 +15,4 @@ print("Removing the first", num, "characters from the string.")
 new_word = word[num:]
 
 # print the new string
-print(new_word)
+print("The original word is", word, "and the new word is", new_word)
